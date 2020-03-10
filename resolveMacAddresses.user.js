@@ -6,7 +6,7 @@
 // @author       Giuseppe Bertone <bertone.giuseppe@gmail.com>
 // @match        http://192.168.1.1
 // @grant        none
-// @supportURL   https://github.com/Neurone/td-w8970-user-scripts
+// @supportURL   https://github.com/Neurone/hus/issues
 // @copyright    2020, MIT
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
