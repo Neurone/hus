@@ -6,7 +6,10 @@
 // @author       Giuseppe Bertone <bertone.giuseppe@gmail.com>
 // @match        http://192.168.1.1
 // @grant        none
+// @source       https://github.com/Neurone/hus
 // @supportURL   https://github.com/Neurone/hus/issues
+// @updateURL    https://github.com/Neurone/hus/raw/master/resolveMacAddresses.meta.js
+// @downloadURL  https://github.com/Neurone/hus/raw/master/resolveMacAddresses.user.js
 // @copyright    2020, MIT
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
