@@ -10,7 +10,6 @@
 // @supportURL   https://github.com/Neurone/hus/issues
 // @updateURL    https://github.com/Neurone/hus/raw/master/resolveMacAddresses.meta.js
 // @downloadURL  https://github.com/Neurone/hus/raw/master/resolveMacAddresses.user.js
-// @copyright    2020, MIT
 // @license      MIT
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
